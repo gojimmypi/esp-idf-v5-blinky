@@ -172,7 +172,7 @@
         </SysVarEntry>
         <SysVarEntry>
           <Key>com.sysprogs.visualgdb.gdb_override</Key>
-          <Value>$(ToolchainDir)\tools\xtensa-esp32s2-elf\esp-2021r2-patch3\xtensa-esp32s2-elf\bin\xtensa-esp32s2-elf-gdb.exe</Value>
+          <Value>$(ToolchainDir)\tools\xtensa-esp32s2-elf\esp-2022r1-RC1-11.2.0\xtensa-esp32s2-elf\bin\xtensa-esp32s2-elf-gdb.exe</Value>
         </SysVarEntry>
       </AdditionalSystemVars>
       <ConfigurableProperties>
@@ -277,7 +277,7 @@
         </SysVarEntry>
         <SysVarEntry>
           <Key>com.sysprogs.visualgdb.gdb_override</Key>
-          <Value>$(ToolchainDir)\tools\xtensa-esp32s3-elf\esp-2021r2-patch3\xtensa-esp32s3-elf\bin\xtensa-esp32s3-elf-gdb.exe</Value>
+          <Value>$(ToolchainDir)\tools\xtensa-esp32s3-elf\esp-2022r1-RC1-11.2.0\xtensa-esp32s3-elf\bin\xtensa-esp32s3-elf-gdb.exe</Value>
         </SysVarEntry>
       </AdditionalSystemVars>
       <FamilyID>ESP32</FamilyID>
@@ -334,7 +334,7 @@
         </SysVarEntry>
         <SysVarEntry>
           <Key>com.sysprogs.visualgdb.gdb_override</Key>
-          <Value>$(ToolchainDir)\tools\riscv32-esp-elf\esp-2021r2-patch3\riscv32-esp-elf\bin\riscv32-esp-elf-gdb.exe</Value>
+          <Value>$(ToolchainDir)\tools\riscv32-esp-elf\esp-2022r1-RC1-11.2.0\riscv32-esp-elf\bin\riscv32-esp-elf-gdb.exe</Value>
         </SysVarEntry>
       </AdditionalSystemVars>
       <FamilyID>ESP32</FamilyID>
@@ -391,7 +391,7 @@
         </SysVarEntry>
         <SysVarEntry>
           <Key>com.sysprogs.visualgdb.gdb_override</Key>
-          <Value>$(ToolchainDir)\tools\riscv32-esp-elf\esp-2021r2-patch3\riscv32-esp-elf\bin\riscv32-esp-elf-gdb.exe</Value>
+          <Value>$(ToolchainDir)\tools\riscv32-esp-elf\esp-2022r1-RC1-11.2.0\riscv32-esp-elf\bin\riscv32-esp-elf-gdb.exe</Value>
         </SysVarEntry>
       </AdditionalSystemVars>
       <FamilyID>ESP32</FamilyID>

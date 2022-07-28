@@ -8,7 +8,7 @@
 		<string>esp32-bsp</string>
 	</BuiltInBSPs>
   <ToolchainID>com.visualgdb.xtensa-esp32-elf</ToolchainID>
-  <BinaryDirectory>tools\xtensa-esp32-elf\esp-2021r2-patch3\xtensa-esp32-elf\bin</BinaryDirectory>
+  <BinaryDirectory>tools\xtensa-esp32-elf\esp-2022r1-RC1-11.2.0\xtensa-esp32-elf\bin</BinaryDirectory>
   <Prefix>xtensa-esp32-elf-</Prefix>
   <Make>$(VISUALGDB_DIR)\make.exe</Make>
   <Ninja>tools\ninja\1.10.2\ninja.exe</Ninja>
@@ -22,12 +22,12 @@
   <Comments>2021r2-patch3</Comments>
   <PathStyle>MinGWSingleLetterFolder</PathStyle>
   <AdditionalPathDirs>
-	<string>tools\xtensa-esp32-elf\esp-2021r2-patch3\xtensa-esp32-elf\bin</string>
-	<string>tools\xtensa-esp32s2-elf\esp-2021r2-patch3\xtensa-esp32s2-elf\bin</string>
-	<string>tools\xtensa-esp32s3-elf\esp-2021r2-patch3\xtensa-esp32s3-elf\bin</string>
+	<string>tools\xtensa-esp32-elf\esp-2022r1-RC1-11.2.0\xtensa-esp32-elf\bin</string>
+	<string>tools\xtensa-esp32s2-elf\esp-2022r1-RC1-11.2.0\xtensa-esp32s2-elf\bin</string>
+	<string>tools\xtensa-esp32s3-elf\esp-2022r1-RC1-11.2.0\xtensa-esp32s3-elf\bin</string>
 	<string>tools\esp32ulp-elf\2.28.51-esp-20191205\esp32ulp-elf-binutils\bin</string>
 	<string>tools\esp32s2ulp-elf\2.28.51-esp-20191205\esp32s2ulp-elf-binutils\bin</string>
-	<string>tools\riscv32-esp-elf\esp-2021r2-patch3\riscv32-esp-elf\bin</string>
+	<string>tools\riscv32-esp-elf\esp-2022r1-RC1-11.2.0\riscv32-esp-elf\bin</string>
 	<string>tools\idf-exe\1.0.1</string>
 	<string>tools\ccache\3.7</string>
 	<string>tools\ninja\1.10.2</string>
